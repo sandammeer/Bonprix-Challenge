@@ -1,0 +1,43 @@
+{
+    "categories": [
+        {
+            "label": "Shop",
+            "url": "https://www.bonprix.de"
+        },
+        {
+            "label": "Damen",
+            "url": "https://www.bonprix.de/kategorie/damen/",
+            "image": "https://image01.bonprix.de/bonprixbilder/teaser/app/channels/app-dez-19a.jpg",
+            "children": [
+                {
+                    "label": "Zur Übersicht",
+                    "url": "https://www.bonprix.de/kategorie/damen/"
+                },
+                {
+                    "label": "Mode",
+                    "url": "https://www.bonprix.de/kategorie/damen-mode/",
+                    "children": [
+                        {
+                            "label": "Alle Artikel anzeigen",
+                            "url": "https://www.bonprix.de/kategorie/damen-mode/"
+                        },
+                        {
+                            "label": "Neuheiten",
+                            "url": "https://www.bonprix.de/kategorie/damen-neu/",
+                            "children": [
+                                {
+                                    "label": "Alle Artikel anzeigen",
+                                    "url": "https://www.bonprix.de/kategorie/damen-neu/"
+                                },
+                                {
+                                    "label": "Oberteile",
+                                    "url": "https://www.bonprix.de/kategorie/damen-alle-neuen-artikel-oberteile/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
